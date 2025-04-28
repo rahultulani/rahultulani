@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-  <span>👨‍💻 Rahul Tulani</span>
-  <img src="https://komarev.com/ghpvc/?username=johndoe&color=brightgreen&style=flat-square" alt="Profile Views">
-</h1>
+# 👨‍💻 Rahul Tulani
 
 > ### 💡 Turning coffee into code and ideas into reality
 
@@ -66,3 +63,5 @@ Software developer passionate about building elegant solutions to complex proble
 - Machine Learning/AI
 - Cloud Architecture
 - Exploring blockchain
+
+![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=brightgreen&style=flat-square)
