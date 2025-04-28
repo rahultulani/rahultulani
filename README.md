@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 Rahul Tulani
+<h1 style="display: flex; justify-content: space-between; align-items: center;">
+  <span>👨‍💻 Rahul Tulani</span>
+  <img src="https://komarev.com/ghpvc/?username=johndoe&color=brightgreen&style=flat-square" alt="Profile Views">
+</h1>
 
 > ### 💡 Turning coffee into code and ideas into reality
 
